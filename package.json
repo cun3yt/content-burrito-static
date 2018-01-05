@@ -1,0 +1,33 @@
+{
+  "name": "content-burrito-static",
+  "version": "1.0.0",
+  "description": "Content Burrito Static File Generator & Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cun3yt@github.com/cun3yt/content-burrito-static.git"
+  },
+  "keywords": [
+    "static",
+    "file",
+    "generator",
+    "web",
+    "cloner"
+  ],
+  "author": "Cuneyt Mertayak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cun3yt/content-burrito-static/issues"
+  },
+  "homepage": "https://github.com/cun3yt/content-burrito-static#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "page-computed-style": "^1.0.2",
+    "urlencode": "^1.1.0"
+  }
+}
