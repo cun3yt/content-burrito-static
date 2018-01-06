@@ -27,7 +27,7 @@
   "dependencies": {
     "cors": "^2.8.4",
     "express": "^4.16.2",
-    "page-computed-style": "^1.0.2",
-    "urlencode": "^1.1.0"
+    "page-computed-style": "git://github.com/cun3yt/page-computed-style.git#master",
+    "urlencode": "^1.1.0"    
   }
 }
